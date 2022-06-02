@@ -1,0 +1,1 @@
+const String campusCollabLogo = "assets/images/campuscollab-var2-nobackground-coloredtext-nogradientmask.png";
